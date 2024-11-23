@@ -24,16 +24,6 @@ The Zip folder includes:
 4. **Tableau Project File**:  
    The Tableau project file can also be downloaded from my [Tableau Public Profile](https://public.tableau.com/).
 
----
-
-## !! IMPORTANT !!
-
-Feel free to download and use the data provided. If you share this Tableau project on Tableau Public or LinkedIn, please consider mentioning my YouTube channel.
-
-For maximum learning, follow along step-by-step instead of downloading the Tableau file directly. This approach will help you better understand the process of building dashboards in Tableau.
-
----
-
 ## User Story - HR Dashboard
 
 **As an HR Manager**, I want a comprehensive dashboard to analyze HR data, providing:  
